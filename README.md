@@ -1,5 +1,6 @@
 # Smart City Scheduling System
 **Student:** Berdaly Nurila
+
 **Group:** SE-2436
 
 ## Overview
@@ -74,9 +75,6 @@ The system efficiently handles cyclic dependencies through **Strongly Connected 
 | Large sparse graphs    | Tarjan's SCC          | Single DFS pass             |
 | Memory constraints     | Iterative DFS         | Prevents stack overflow     |
 | Real-time updates      | Incremental algorithms | Partial recomputation       |
-
-
-```
 
 ## Key Findings
 
